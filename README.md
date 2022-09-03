@@ -1,6 +1,6 @@
-### Olá sou Yago Alves
+### Olá sou Yago Alves, estudante ADS 3/4
 
--  Estudante de ADS 🎓
+
 
 <!--
 **yagoalvess/yagoalvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 
 
 
+
+          
+
+##
+
 <div align="center">
   <a href="https://github.com/yagoalvess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagoalvess&show_icons=true&theme=highcontrast" />
@@ -28,12 +33,15 @@ Here are some ideas to get you started:
 
 
 
-
 <div style="display: inline_block"><br>
+  <a href="https://github.com/yagoalvess">
   <img align="center" alt="Yago_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yago_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yago_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yago_Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Yago_mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Yago_visual_studio_code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  
   
 </div>
 
