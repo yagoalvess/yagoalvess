@@ -1,5 +1,5 @@
 ### Olá Eu sou o Yago Alves
-🎓 Estudante de Análise e Desenvolvimento de Sistemas 4/4
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas 4/4
 
 
 
