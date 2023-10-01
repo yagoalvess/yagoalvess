@@ -1,5 +1,6 @@
 ### Olá Eu sou o Yago Alves
-- 🎓 Graduado em Analise e Desenvolvimento de sistemas 
+- 🎓 Graduado em Analise e Desenvolvimento de sistemas
+- 🎮 Apaixonado por Games e novas tecnologias
 
 
 
